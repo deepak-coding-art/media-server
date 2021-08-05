@@ -1,0 +1,29 @@
+{
+  "name": "media-server",
+  "version": "1.0.0",
+  "description": "Media server for home diy nas, old pc, old android device",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepak-coding-art/media-server.git"
+  },
+  "keywords": [
+    "Media",
+    "Server",
+    "NAS",
+    "OldPc",
+    "OpenSource"
+  ],
+  "author": "Deepak Meena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepak-coding-art/media-server/issues"
+  },
+  "homepage": "https://github.com/deepak-coding-art/media-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
